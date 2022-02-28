@@ -60,7 +60,7 @@
 <details open>
  <summary> 😇 <b>Medium Published articles</b>: </summary>
     <a href="https://www.zhihu.com/people/cheng-feng-28-76" target="_blank" alt="Zhihu" title="Zhihu">
-    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="14px"/>
+    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="16px"/>
   </a> 被关注人数：1458、文章总浏览量：12万、收藏总数：1642、赞同数：420
   <br>
   <a href="https://zhuanlan.zhihu.com/p/468603262" target="_blank">计算机图形学 入门篇 10. 光追III 蒙特卡洛路径追踪(Path Tracing)</a>
@@ -77,7 +77,7 @@
   <br>
   <a href="https://zhuanlan.zhihu.com/p/452570902" target="_blank">计算机图形学 入门篇 5. 着色 I（Surface Shading）</a>
   <br>
-   <a href="https://www.zhihu.com/people/cheng-feng-28-76" target="_blank">more</a>
+   <a href="https://www.zhihu.com/people/cheng-feng-28-76" target="_blank">更多文章...</a>
   <br>
 </details>
 
