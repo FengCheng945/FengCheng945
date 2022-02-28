@@ -28,7 +28,7 @@
   <a href="https://space.bilibili.com/323348711" target="_blank" alt="Bilibili" title="Bilibili">
     <img src="https://user-images.githubusercontent.com/29084184/129467562-a754907c-c128-40d0-80ad-86e89bdda3d6.png" width="30px"/>
   &emsp;
-  <a href="https://www.linkedin.com/in/charmve" target="_blank" alt="LinkedIn" title="LinkedIn">
+  <a href="https://www.linkedin.cn/injobs/in/%E7%83%BD-%E7%A8%8B-a7a25b233" target="_blank" alt="LinkedIn" title="LinkedIn">
     <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
   </a>
   &emsp;
