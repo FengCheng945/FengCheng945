@@ -1,7 +1,8 @@
 ## Hi, 👋  I'm <a href="https://www.zhihu.com/people/cheng-feng-28-76" target="_blank">ChengFeng (Keanu)</a> <sup><a 
 <img align="left" alt="GIF" src="https://giphy.com/embed/4N1wOi78ZGzSB6H7vK![image](https://user-images.githubusercontent.com/74391884/155977072-74681d2d-847c-4e50-b9d1-163fa196c8da.png)
 " width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
+<div style="width:100%;height:0;padding-bottom:84%;position:relative;"><iframe src="https://giphy.com/embed/LnQjpWaON8nhr21vNW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/community-together-diversity-LnQjpWaON8nhr21vNW">via GIPHY</a></p>
+  
 <br>
 
 <!--
