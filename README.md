@@ -60,7 +60,7 @@
 <details open>
  <summary> 😇 <b>Medium Published articles</b>: </summary>
 <br>
-计算机图形学 入门篇 10. 光追III 蒙特卡洛路径追踪(Path Tracing)(https://www.youtube.com/watch?v=1CwKB2iWzAM)
+[计算机图形学 入门篇 10. 光追III 蒙特卡洛路径追踪(Path Tracing)](https://www.youtube.com/watch?v=1CwKB2iWzAM)
 
   <br>
 
