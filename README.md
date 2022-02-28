@@ -34,7 +34,7 @@
   &emsp;
 
 </p>
-<img align="left" alt="GIF" src="https://media.giphy.com/media/Xc3VZrqkyqB78LS6Dp/giphy.gif" width="30" title="Say HI"> <em><b>hi! I'm a technology enthusiast.</b> If you want to learn more. <b>Follow me and I will keep updating technical articles</em>
+<img align="left" alt="GIF" src="https://media.giphy.com/media/Xc3VZrqkyqB78LS6Dp/giphy.gif" width="30" title="Say HI"> 
 <h2></h2>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
