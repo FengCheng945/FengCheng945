@@ -60,7 +60,7 @@
 <details open>
  <summary> 😇 <b>Medium Published articles</b>: </summary>
 <br>
-    <a target="_blank" href="https://zhuanlan.zhihu.com/p/468603262"><img src="https://zhuanlan.zhihu.com/p/468603262" alt="Recent Article 0"></a>
+    <a target="_blank" href="https://zhuanlan.zhihu.com/p/468603262"><alt="计算机图形学 入门篇 10. 光追III 蒙特卡洛路径追踪(Path Tracing)"></a>
   <br>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/1" alt="Recent Article 1"></a>
   <br>
