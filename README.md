@@ -59,13 +59,16 @@
 
 <details open>
  <summary> 😇 <b>Medium Published articles</b>: </summary>
-<br>
   <a href="https://zhuanlan.zhihu.com/p/468603262" target="_blank">计算机图形学 入门篇 10. 光追III 蒙特卡洛路径追踪(Path Tracing)</a>
   <br>
-  <a href="https://zhuanlan.zhihu.com/p/466818755" target="_blank">计算机图形学 入门篇 9. 光追II: 辐射度量学与 Bidirectional Reflectance Distribution Function
-  </a>
+  <a href="https://zhuanlan.zhihu.com/p/466818755" target="_blank">计算机图形学 入门篇 9. 光追II: 辐射度量学与 Bidirectional Reflectance Distribution Function</a>
   <br>
-
+  <a href="https://zhuanlan.zhihu.com/p/466122358" target="_blank">计算机图形学 入门篇 8. 光追I: Recursive(Whitted-Style) Ray Tracing算法与光追的加速结构算法</a>
+  <br>
+  <a href="https://zhuanlan.zhihu.com/p/464686081" target="_blank">计算机图形学 入门篇 7. 贝塞尔曲线（Be ́zier Curves）与贝塞尔曲面（Be ́zier Surfaces）</a>
+  <br>
+  <a href="https://zhuanlan.zhihu.com/p/460950331" target="_blank">计算机图形学 入门篇 6. 几何 （Geometry）</a>
+  <br>
 </details>
 
 🚧 **My Todoist Stats: ⬇️**
