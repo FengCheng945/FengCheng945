@@ -57,8 +57,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 <br>
  **Game Platform **
+  
+
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
-[![](http://simpleicons.p2hp.com/icons/playstation4.svg)](https://www.playstation.com/en-us/)
+
 <details open>
  
  <summary> 😇 <b>Medium Published articles</b>: </summary>
