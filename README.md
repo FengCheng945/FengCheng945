@@ -1,4 +1,4 @@
-## Hi, 👋  I'm <a href="https://www.zhihu.com/people/cheng-feng-28-76" target="_blank">ChengFeng (Keanu)</a> <sup><a 
+## Hi, 👋  I'm <a href="https://www.zhihu.com/people/cheng-feng-28-76" target="_blank">ChengFeng (Keanu)</a> <sup>
 
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/4N1wOi78ZGzSB6H7vK/giphy.gif" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
