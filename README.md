@@ -1,5 +1,6 @@
 ## Hi, 👋  I'm <a href="https://www.zhihu.com/people/cheng-feng-28-76" target="_blank">ChengFeng (Keanu)</a> <sup><a 
-<iframe src="https://giphy.com/embed/4N1wOi78ZGzSB6H7vK" width="480" height="440" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/friends-sad-bury-4N1wOi78ZGzSB6H7vK">via GIPHY</a></p>
+<img align="left" alt="GIF" src="https://giphy.com/embed/4N1wOi78ZGzSB6H7vK![image](https://user-images.githubusercontent.com/74391884/155977072-74681d2d-847c-4e50-b9d1-163fa196c8da.png)
+" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br>
 
