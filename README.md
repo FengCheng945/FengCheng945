@@ -60,7 +60,7 @@
 <details open>
  <summary> 😇 <b>Medium Published articles</b>: </summary>
 <br>
-    <a target="_blank" href="https://zhuanlan.zhihu.com/p/468603262"><src="https://zhuanlan.zhihu.com/p/468603262" alt="计算机图形学 入门篇 10. 光追III 蒙特卡洛路径追踪(Path Tracing)"></a>
+    <a target="_blank" href="https://zhuanlan.zhihu.com/p/468603262"><img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px" alt="计算机图形学 入门篇 10. 光追III 蒙特卡洛路径追踪(Path Tracing)"></a>
   <br>
 
 </details>
