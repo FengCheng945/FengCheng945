@@ -1,5 +1,9 @@
 ## Hi, 👋  I'm <a href="https://www.zhihu.com/people/cheng-feng-28-76" target="_blank">ChengFeng (Keanu)</a> <sup>
-
+  &emsp;
+  <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank" alt="Zhihu" title="Zhihu">
+    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
+  </a>
+  &emsp;
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/4N1wOi78ZGzSB6H7vK/giphy.gif" width="60" title="Say HI"> <em><b>hi! I am a technology enthusiast</b> If you want to learn more <b>Follow me and I will keep updating technical articles</em>
 
