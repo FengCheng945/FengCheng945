@@ -60,8 +60,10 @@
 <details open>
  <summary> 😇 <b>Medium Published articles</b>: </summary>
 <br>
-  <a href="https://zhuanlan.zhihu.com/p/468603262" target="_blank">计算机图形学 入门篇 10. 光追III 蒙特卡洛路径追踪(Path Tracing)</a>
-  <a href="https://zhuanlan.zhihu.com/p/466818755" target="_blank">计算机图形学 入门篇 10. 光追III 蒙特卡洛路径追踪(Path Tracing)</a>
+  <a href="https://zhuanlan.zhihu.com/p/468603262" target="_blank">计算机图形学 入门篇 10. 光追III 蒙特卡洛路径追踪(Path Tracing)
+  </a>
+  <a href="https://zhuanlan.zhihu.com/p/466818755" target="_blank">计算机图形学 入门篇 9. 光追II: 辐射度量学与 Bidirectional Reflectance Distribution Function
+  </a>
   <br>
 
 </details>
