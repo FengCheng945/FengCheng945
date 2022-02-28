@@ -60,8 +60,8 @@
 <details open>
  <summary> 😇 <b>Medium Published articles</b>: </summary>
 <br>
-  <a href="https://www.zhihu.com/people/cheng-feng-28-76" target="_blank">计算机图形学 入门篇 10. 光追III 蒙特卡洛路径追踪(Path Tracing)</a>
-- [计算机图形学 入门篇 10. 光追III 蒙特卡洛路径追踪(Path Tracing)](https://www.youtube.com/watch?v=1CwKB2iWzAM)
+  <a href="https://zhuanlan.zhihu.com/p/468603262" target="_blank">计算机图形学 入门篇 10. 光追III 蒙特卡洛路径追踪(Path Tracing)</a>
+
   <br>
 
 </details>
