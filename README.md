@@ -60,7 +60,7 @@
 Game Platform 
   
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/profiles/76561198254582391/)
-[![](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://steamcommunity.com/profiles/76561198254582391/)
+[![](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white) width="16px"](https://steamcommunity.com/profiles/76561198254582391/)
 
 <details open>
  
