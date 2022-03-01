@@ -87,6 +87,4 @@ Game Platform
 </details>
 
 🚧 **My Todoist Stats: ⬇️**
-<!--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=PaperWeeklyAI)](https://github.com/Charmve/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Surface-Defect-Detection)](https://github.com/Charmve/Surface-Defect-Detection)
--->
+![Keanu's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FengCheng945&layout=compact&hide_border=true&langs_count=10)
