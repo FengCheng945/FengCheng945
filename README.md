@@ -60,7 +60,7 @@
 Game Platform 
   
 [![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198254582391/)
-[![](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://steamcommunity.com/profiles/76561198254582391/)
+[![](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://www.playstation.com/zh-hans-cn/)
 
 <details open>
  
@@ -87,7 +87,7 @@ Game Platform
   <br>
 </details>
 
-🚧 **My Todoist Stats: ⬇️**
+🚧 **Keanu's Most used languages: ⬇️**
  <br>
   
 ![Keanu's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FengCheng945&layout=compact&hide_border=true&langs_count=10)
