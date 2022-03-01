@@ -7,9 +7,9 @@
 <p align="center">
   <a href="https://github.com/FengCheng945" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=FengCheng945&title_color=333&text_color=777" alt="FengCheng945's Stats" >
-    <!-- &hide=issues
+     &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=FengCheng945&hide=issues&title_color=333&text_color=777" alt="FengCheng945's Stats" >
-    -->
+    
   </a>
 </p>
 
