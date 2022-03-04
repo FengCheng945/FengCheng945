@@ -64,7 +64,7 @@ Game Platform
  <summary> 😇 <b>Medium Published articles</b>: </summary>
     <a href="https://www.zhihu.com/people/cheng-feng-28-76" target="_blank" alt="Zhihu" title="Zhihu">
     <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="16px"/>
-  </a> 被关注人数：1458、文章总浏览量：12万、收藏总数：1642、赞同数：420
+  </a> 被关注人数：1541、文章总浏览量：12.3万、收藏总数：1651、赞同数：428
   <br>
   <a href="https://zhuanlan.zhihu.com/p/468603262" target="_blank">计算机图形学 入门篇 10. 光追III 蒙特卡洛路径追踪(Path Tracing)</a>
   <br>
