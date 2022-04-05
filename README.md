@@ -64,7 +64,7 @@ Game Platform
  <summary> 😇 <b>Medium Published articles</b>: </summary>
     <a href="https://www.zhihu.com/people/cheng-feng-28-76" target="_blank" alt="Zhihu" title="Zhihu">
     <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="16px"/>
-  </a> 被关注人数：1749、文章总浏览量：13万、收藏总数：1696、赞同数：450
+  </a> 被关注人数：1919、文章总浏览量：15.2万、收藏总数：1795、赞同数：478
   <br>
   <a href="https://zhuanlan.zhihu.com/p/468603262" target="_blank">计算机图形学 入门篇 10. 光追III 蒙特卡洛路径追踪(Path Tracing)</a>
   <br>
@@ -89,6 +89,6 @@ Game Platform
   
 ![Keanu's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FengCheng945&layout=compact&hide_border=true&langs_count=10)
 
-**Welcome to my recent project: ⬇️**
+🚧**Welcome to my recent project: **
   <a href="https://github.com/FengCheng945/MyTinyRenderer" target="_blank">MyTinyRenderer</a>
   <br>
